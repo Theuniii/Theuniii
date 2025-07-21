@@ -1,6 +1,8 @@
 ## Hi there ! I'm Theuni Ranwala 👋
 🎓 I'm currently pursuing a degree in Software Engineering at the University of Westminster, with a strong interest in Full-Stack Development. 
+
 ## My Tech and Tools:
+
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
@@ -12,4 +14,10 @@
 ![VSCode](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=flat-square&logo=postman&logoColor=white)
 
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="mailto:theuni2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/theuni-ranwala-2aaa21332"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+</p>
 
