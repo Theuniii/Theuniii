@@ -1,5 +1,5 @@
 ## Hi there ! I'm Theuni Ranwala 👋
-🎓 I'm currently pursuing a degree in Software Engineering at the University of Westminster, with a strong interest in Full-Stack Development. 
+🎓 I'm a second year Software Engineering undergraduate at the University of Westminster, with a strong interest in Full-Stack Development. 
 
 ## My Tech and Tools:
 
@@ -20,4 +20,9 @@
   <a href="mailto:theuni2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/theuni-ranwala-2aaa21332"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Theuniii&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Theuniii&layout=compact&theme=tokyonight)
+
 
