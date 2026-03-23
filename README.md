@@ -1,95 +1,70 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi,%20I'm%20Theuni!&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello,%20I'm%20Theuni!&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
   
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Software+Engineering+Intern;Machine+Learning+Enthusiast;Data-Driven+Problem+Solver" alt="Typing SVG" /></a>
-</div>
-
-<br/>
-
-### 👩‍💻 About Me
-
-<div align="center">
-  <p>
-    I am a Software Engineering undergraduate with a strong passion for Machine Learning, combining software development with data-driven solutions. [cite: 8] I specialize in object-oriented programming, system architecture, and database design. [cite: 9]
-  </p>
-  <p>
-    🎓 Currently studying at the <b>University of Westminster (IIT Sri Lanka)</b>. [cite: 12]<br/>
-    🌍 Based in <b>Horana, Sri Lanka</b>. [cite: 5]<br/>
-    📫 Reach me at: <a href="mailto:theuni2002@gmail.com">theuni2002@gmail.com</a> [cite: 3]
+  <h3 align="center">Software Engineering Intern | Machine Learning Enthusiast</h3>
+  
+  <p align="center">
+    I am a Software Engineering undergraduate with a strong passion for Machine Learning, combining software development with data-driven solutions. Skilled in object-oriented programming, system architecture, and database design. Currently studying at the University of Westminster (IIT Sri Lanka). Based in Horana, Sri Lanka.
   </p>
 
-  <p>
-    <a href="https://linkedin.com/in/theuni-ranwala/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> [cite: 6]
+  <p align="center">
+    <a href="https://linkedin.com/in/theuni-ranwala/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="mailto:theuni2002@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   </p>
-</div>
-
-<br/>
-
-### 🛠️ Tech Arsenal
-
-<div align="center">
-  <p><b>Languages, Frameworks & Tools</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,js,go,react,nodejs,express,mysql,postgres,gcp,tensorflow,git,github,figma&perline=7" />
-  </a>
-  <br/><br/>
-  <p><b>Data & Machine Learning</b></p>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> [cite: 19]
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> [cite: 19]
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /> [cite: 27]
 </div>
 
 <br/>
 
 ### 🚀 Featured Projects & Experience
 
-> **💧 ChloroCast:** Project Lead for a machine learning system at the Ambatale Water Treatment Plant to forecast chlorine demand. [cite: 16, 17] Reached the Top 12 finalists in the Hult Prize 2026 [cite: 61, 62] and co-authored an accepted paper at the ADSCAI Conference 2026! [cite: 63, 64]
-<br/>
-> **🛡️ Intrusion Detection Dashboard:** Built a web-based dashboard using Go, Python, React, and PostgreSQL [cite: 23] to classify network traffic and identify suspicious activity. [cite: 21]
+- 💧 **[ChloroCast](https://github.com/Theuniii):** Leading a project to develop a web-based machine learning system for the Ambatale Water Treatment Plant to forecast chlorine demand. Tech Stack: React.js, Express.js, Node.js, Python, Pandas, scikit-learn, Google BigQuery. We reached the Top 12 finalists in the Hult Prize On-Campus Competition 2026 and co-authored an accepted paper at the ADSCAI Conference 2026!
+- 🛡️ **Intrusion Detection Dashboard:** Built a web-based dashboard using machine learning to classify network traffic and identify suspicious activity from the CIC-IDS2017 dataset. Built with Go, Python, React, and PostgreSQL.
+- 🎗️ **[Breast Cancer Prediction System](https://github.com/Theuniii/Breast-Cancer-Mortality-and-Survival-Prediction-System):** Built a machine learning prediction system in Python to classify mortality and estimate patient survival using structured clinical data.
+- 🌟 **[Open Source: CodeClip](https://github.com/Theuniii/CodeClip):** Contributed to GirlScript Summer of Code by developing a responsive landing page and profile page dashboard for CodeClip.
 
 <br/>
+
+### 💻 Tech Arsenal
 
 <div align="center">
-  <a href="https://github.com/Theuniii/Breast-Cancer-Mortality-and-Survival-Prediction-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Theuniii&repo=Breast-Cancer-Mortality-and-Survival-Prediction-System&theme=tokyonight&border_radius=10" alt="Breast Cancer Prediction System Repo Card" />
-  </a>
-  <a href="https://github.com/Theuniii/CodeClip">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Theuniii&repo=CodeClip&theme=tokyonight&border_radius=10" alt="CodeClip Open Source Repo Card" />
-  </a>
+  
+  **Languages**<br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+
+  <br/><br/>
+  **Machine Learning & Data**<br/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+  <br/><br/>
+  **Frontend & Backend**<br/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+
+  <br/><br/>
+  **Databases**<br/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  
 </div>
 
 <br/>
 
-### 📈 GitHub Analytics
+### 📊 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Theuniii&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Theuniii&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" alt="GitHub Stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theuniii&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  
-  <a href="https://github.com/Theuniii">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Theuniii&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Theuniii&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Theuniii&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
